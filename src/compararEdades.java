@@ -8,6 +8,10 @@ public class compararEdades {
         int edad2 = sc.nextInt();
         if(edad1 > edad2){
             System.out.println("La primera persona es mayor ");
+            else{
+                (edad1 < edad2)
+                System.out.println("La segunda persona es menor");
+            }
         }
         sc.close();
     }
